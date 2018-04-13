@@ -1,0 +1,1 @@
+# Objectif : construire un bot twitter qui recherche des emails, les récupère, et les conserve dans un fichier.
